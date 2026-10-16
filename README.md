@@ -1,10 +1,10 @@
-# Callzinhas
+# Chamadinhas
 
-Este repositório guarda só os instaladores do Callzinhas e os arquivos que o app usa para se atualizar sozinho.
+Este repositório guarda só os instaladores do Chamadinhas e os arquivos que o app usa para se atualizar sozinho.
 
 ## Baixar
 
-Abra [Releases](https://github.com/guigui-zito/callzinhas/releases/latest) e baixe o instalador do seu sistema:
+Abra [Releases](https://github.com/guigui-zito/chamadinhas/releases/latest) e baixe o instalador do seu sistema:
 
 - **Windows**: `Callzinhas_<versão>_x64-setup.exe` (ou o `.msi`).
 
